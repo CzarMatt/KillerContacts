@@ -1,9 +1,1 @@
 /build
-.DS_Store
-target
-*.iml
-.idea
-build
-.gradle
-local.properties
-*~
